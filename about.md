@@ -5,9 +5,11 @@ title: About me
 ## About
 Hi! My name is Michal Szulc.
 
-Currently I'm Senior Programmer and IT Project Manager in small startup [com](http://ventocg.eu/)[pan](http://murallo.com/strona-glowna/)[ies](http://estatica.pl/) localised in Poznan, Poland.
+Currently I'm a Senior Programmer and IT Project Manager in a small startup [com](http://ventocg.eu/)[pan](http://murallo.com/strona-glowna/)[ies](http://estatica.pl/) localised in Poznan, Poland.
 
-I'm fascinated with Grails framework (based on Spring/JVM/Groovy) and REST microservices architecture. After hours I like to dig in websec.
+I'm fascinated with the Grails framework (based on Spring/JVM/Groovy) and a REST microservices architecture. 
+
+After hours I like dig into a websec or craft in a carpentry workshop.
 
 ### Contracts
 I'm open for a new part-time opportunities ( <15h/week ).
