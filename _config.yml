@@ -13,8 +13,10 @@ markdown: kramdown
 source: .
 destination: ./_site
 permalink: /:title
+gems: [jekyll-paginate]
 paginate: 8
 paginate_path: /page:num/
+#paginate_path: "page:num"
 
 # Default values
 defaults:
@@ -26,7 +28,7 @@ defaults:
       layout: "post"
 
 # Custom variables
-version: "1.1.0"
+version: "1.0.1"
 
 # Options
 custom_header: false

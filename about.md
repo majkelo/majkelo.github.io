@@ -1,21 +1,18 @@
 ---
 layout: page
-title: About Emerald
+title: About me
 ---
 ## About
-Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.
+Hi! My name is Michal Szulc.
 
-For further details on Emerald, please visit the [repository on Github](https://github.com/KingFelix/emerald/).
+Currently I'm Senior Programmer and IT Project Manager in small startup [com](http://ventocg.eu/)[pan](http://murallo.com/strona-glowna/)[ies](http://estatica.pl/) localised in Poznan, Poland.
 
-![Emerald](img/Emerald01.png "Emerald")
+I'm fascinated with Grails framework (based on Spring/JVM/Groovy) and REST microservices architecture. After hours I like to dig in websec.
 
-### Setup
-Emerald may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/KingFelix/emerald/archive/master.zip).
+### Contracts
+I'm open for a new part-time opportunities ( <15h/week ).
 
-After extracting the content from the folder into the selected directory, you can type ``jekyll serve`` from the terminal, than open your browser to ``0.0.0.0:4000/emerald/`` and you will find it there.
+Check my [full CV](https://www.linkedin.com/in/michał-szulc-12769111a).
+![Michal Szulc](img/michal_szulc.png "Michal Szulc")
 
-Additionally it is possible to fork the repository and use Github Pages as hosting. By following this way it will be enough to change the ``baseurl`` value into the ``_config.yml`` file, with the directory name of your project (for example /blog) or simply with a "/" (slash) if you want install Emerald in the root. 
 
-Last but not least: the [Jekyll documentation](http://jekyllrb.com) is the best starting point!
-
-Enjoy!
