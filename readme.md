@@ -1,3 +1,17 @@
+## Localhost dev env command
+
+cd majkelo.github.io/
+sudo snap install ruby
+sudo snap install ruby --classic
+gem install bundler jekyll
+bundle init
+bundle add jekyll
+bundle add jekyll-paginate
+bundle add webrick
+bundle install
+bundle exec jekyll serve
+
+
 ## About
 Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.
 
